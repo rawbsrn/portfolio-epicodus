@@ -1,11 +1,16 @@
 .alpha{
   padding: 15px;
-  border: solid blue;
+  border: solid green;
   border-width: 10px;
   margin-top: 10px;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
 .beta{
-
+  padding: 20px;
+  border: solid blue;
+  border-width: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
 }
