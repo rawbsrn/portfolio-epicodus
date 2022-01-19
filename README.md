@@ -8,13 +8,15 @@
 
 * HTML
 * CSS
-* Bootstrap
+* Bootstrap (Eventually)
 
 ## Description
 
 A portfolio page designed with bootstrap in mind built with HTML and CSS. Designed to be built upon with future projects. 
 
 ## Setup/Installation Requirements
+
+Be sure to clone this repo to your local machine by running the command git clone https://github.com/rawbsrn/portfolio-epicodus . After you do this you should be able to open the index.html file located in the portfolio-epicodus folder in the web browser of your choosing. 
 
 If you are new to development, check out the instructions at this link for how to set up a new enviornment from scratch! (https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-with-intro-to-programming/installation-and-setup)
 
